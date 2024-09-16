@@ -1,10 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 int main()
 {
-    cout << "Hello World\nMy name is Md. Naeem Uddin\n" ;
+  string S;
+  cin >> S;
+  cout << "Hello, " << S << endl;
 
     return 0;
 }
-
